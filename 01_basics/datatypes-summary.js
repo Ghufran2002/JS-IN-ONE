@@ -33,3 +33,30 @@ console.log(typeof outsideTemp);
 
 
 // https://tc39.es/ecma262/#sec-typeof-operator
+
+
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// memory - Stack (Primitive), Heap(Non-Primitive)
+
+let myYoutubename= "ghufranalam"
+let anothername = myYoutubename
+anothername = "ghufrancode"
+
+console.log(myYoutubename);
+console.log(anothername)
+
+
+let userOne = {
+    email: "user@google.com",
+    upi: "usr@ybl"
+
+}
+
+let userTwo = userOne
+userTwo.email = "ghufran@google.com"
+
+console.log(userOne.email)
+console.log(userTwo.email)
