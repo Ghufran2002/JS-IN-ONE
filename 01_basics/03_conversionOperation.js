@@ -48,3 +48,9 @@ let str2 = " ghufran"
 let str3 = str1+str2
 console.log(str3);
 
+let gameCounter = 100
+++gameCounter;
+console.log(gameCounter);
+
+// link to study 
+// https://tc39.es/ecma262/#sec-abstract-operations
