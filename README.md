@@ -1,2 +1,2 @@
-# JS-IN-ONE
+# JavaScript
 A code repo for javascript series
